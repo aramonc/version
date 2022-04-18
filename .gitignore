@@ -71,6 +71,8 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+./*.iml
+
 ### Go template
 # Binaries for programs and plugins
 *.exe
@@ -86,5 +88,4 @@ fabric.properties
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
-!/version.iml
+vendor/
